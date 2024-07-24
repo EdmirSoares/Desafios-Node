@@ -3,7 +3,7 @@
   <table>
         <tr>
             <td>
-                <img src="./docs/select_player.gif" alt="Mario Kart" width="600">
+                <img src="./docs/select_player.gif" alt="Mario Kart" width="500">
             </td>
             <td>
                 <b>Objetivo:</b>
